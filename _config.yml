@@ -1,8 +1,8 @@
 # Site settings
 title: volkansahin
 description: 'volkansahin blog'
-url: 'http://volkansah.in'
-baseurl: '/'
+url: 'http://volkansah.in/blog'
+baseurl: '/blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
