@@ -2,7 +2,7 @@
 title: volkansahin
 description: 'import this'
 url: 'http://volkansah.in'
-baseurl: ''
+baseurl: '/blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
