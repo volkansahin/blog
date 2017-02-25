@@ -3,8 +3,8 @@ title: volkansahin
 description: 'import this'
 url: 'http://volkansah.in'
 baseurl: '/blog/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-92606765-1'
+disqus_shortname: 'sahinvolkan'
 
 author:
   name: 'Volkan Sahin'
