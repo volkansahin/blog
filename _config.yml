@@ -1,18 +1,18 @@
 # Site settings
 title: volkannnn
-description: 'import thisnnn'
+description: 'import this'
 url: 'http://volkansah.in'
 baseurl: '/blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Volkan Sahinnnn'
-  email: bm.volkansahinnnn@gmail.com
-  twitter_username: volkansahinnnnn
-  facebook_username: bm.volkansahinnnn
-  github_username:  volkansahinnnn
-  linkedin_username:  volkansahinnn
+  name: 'Volkan Sahin'
+  email: bm.volkansahin@gmail.com
+  twitter_username: volkansahin
+  facebook_username: bm.volkansahin
+  github_username:  volkansahin
+  linkedin_username:  volkansahin
 
 defaults:
   -
