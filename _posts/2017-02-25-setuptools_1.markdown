@@ -25,7 +25,7 @@ Genel özellikleri:
 
 * PyPI desteği sayesinde dağıtımlarınızı ve Egg dosyalarınızı PyPI'ye yükleyebilirsiniz.
 
-{% gist volkansahin/eddb59a20ba789612b54d07c70b738ec setup.py %}
+{% gist volkansahin/eddb59a20ba789612b54d07c70b738ec setup0.py %}
 
 **Kaynak**
 * [setuptools.readthedocs.io](http://setuptools.readthedocs.io/en/latest/setuptools.html)
