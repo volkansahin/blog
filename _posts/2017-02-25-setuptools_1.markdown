@@ -8,7 +8,8 @@ tags: [paketleme]
 * Setuptools özellikleri nelerdir?
 * Setuptools ile paketleme örneği
 
-**Setuptools nedir?**
+Setuptools nedir?
+==================
 Setuptools; geliştiricilerin Python projelerini (özellikle diğer paketlere bağımlılığı olan),  kolayca paketlemelerini ve dağıtmalarını sağlayan bir kütüphanedir. Kısacası projenizin paketlenip, dağıtılması safhasında ihtiyacınız olan şey.
 
 Genel özellikleri:
