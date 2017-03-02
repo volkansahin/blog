@@ -11,4 +11,6 @@ Yazının içeriği:
 * Setuptools bağımlılıkları nelerdir?
 * Setuptools ile paketleme örneği
 
+{% gist parkr/c08ee0f2726fd0e3909d %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum enim nisl, auctor eu facilisis sit amet, dictum non arcu. Etiam blandit ut magna et facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget arcu nec risus blandit fermentum eget quis risus. Aliquam semper varius eleifend. Donec semper lorem leo, sed commodo ante aliquet id. Fusce interdum tellus ac commodo laoreet.
