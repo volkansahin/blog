@@ -1,9 +1,12 @@
 ---
-title:  "Proje Paketleme 1"
-date:   2016-01-08 15:04:23
+title:  "Python Proje Paketleme"
+date:   2017-03-03 00:15:26
 categories: [python,setuptools]
 tags: [paketleme]
 ---
+
+Python kullanarak bir uygulama geliştirdiniz ve bunun geliştirme aracınızda bir yazılım projesi olarak kalmasını istemiyorsunuz. Bir proje nasıl paketlenir? Bağımlılıkları nasıl yönetilir? Ne ile dağıtılır? Setuptools ile bu sorulara cevap bulabilirsiniz.
+
 * Setuptools nedir?
 * Setuptools özellikleri nelerdir?
 * Setuptools ile paketleme örneği
@@ -34,4 +37,3 @@ Setuptools İlk Örnek
 
 **Kaynak**
 * [setuptools.readthedocs.io](http://setuptools.readthedocs.io/en/latest/setuptools.html)
-
