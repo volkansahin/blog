@@ -1,0 +1,10 @@
+---
+title:  "Python Egg Dosya Formatı"
+date:   2017-03-08 00:15:26
+categories: [python,eggs, format]
+tags: [egg]
+---
+
+
+* Egg formatı nedir?
+* Egg dosyasının içeriği nelerden oluşur?
