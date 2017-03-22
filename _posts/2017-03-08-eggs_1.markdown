@@ -4,7 +4,19 @@ date:   2017-03-08 00:15:26
 categories: [python,eggs, format]
 tags: [egg]
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 * Egg formatı nedir?
 * Egg dosyasının içeriği nelerden oluşur?
+* Avantajları ve dez avantajları nelerdir?
+
+Python projesinin kodunu, kaynaklarını, meta verisini ve versiyonunu barındıran mantıksal yapı *Python Egg*'dir. Egg dosyaların kolay keşfedilebilir ve projelere eklenebilir olması, kullanılabilirliğini arttıran temel etmenlerden.
+
+Egg dosyalarının iki formatı vardır:
+1. *.egg*: Proje kodlarını ve kaynaklarını barındıran bir sıkıştırılmış dosya ya da dizinden oluşur. 
+2. *.egg-info*: Proje kodları ve kaynakları ile aynı dizinde bulunur ve proje ile ilgili meta verileri barındırır.
+
+*.egg* formatıdağıtım, kolay kurulum ve güncelleştirme için çok uygun bir yapıya sahiptir. Çünkü egg ile proje tek bir dizin ya da dosya içinde kendine yeter; kod veya kaynakları diğerleri ile karışmaz. Sağlanan bu bağımsız yapı ile aynı uygulamaların farklı sürümleri aynı anda yüklenebilir; farklı programlar aynı uygulamanın farklı versiyonlarını kullanabilir.
+
+*.egg-info* ise paketleme araçları için performanslı ve kolayca kurulum sağlayıp; geriye uyumluluğu desteklemek için oluşturulmuştur. Meta verinin uygulama ile aynı dizine koyulması; .pth dosyalarının oluşturulmasına gerek bırakmayarak kurulum sürecini kolaylaştırır.
