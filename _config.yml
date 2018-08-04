@@ -2,7 +2,7 @@
 title: volkansahin
 description: 'import this'
 url: 'http://volkansah.in'
-baseurl: '/blog/'
+baseurl: ''#'/blog/'
 google_analytics: 'UA-92606765-1'
 disqus_shortname: 'sahinvolkan'
 
