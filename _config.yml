@@ -1,9 +1,9 @@
 # main text of home
-name: Volkan Sahin
-bio: A Man who travels the world eating noodles
+name: Volkan Şahin
+bio: one-way time traveler
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,9 +54,9 @@ github: volkansahin
 email: bm.volkansahin@gmail.com
 
 authors:
-    johndoe:
-        name: Volkan Sahin
-        bio: A Man who travels the world eating noodles
+    volkan:
+        name: Volkan Şahin
+        bio: one-way time traveler
         external-image: false
         picture: assets/images/profile.jpg
         twitter: volkansahin
